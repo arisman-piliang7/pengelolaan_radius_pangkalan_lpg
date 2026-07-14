@@ -1,4 +1,4 @@
-# DDMS — Sistem Manajemen Pangkalan LPG
+Sistem Manajemen Pangkalan LPG
 
 Aplikasi berbasis **Streamlit** untuk pengelolaan data pangkalan LPG,
 analisis konflik radius, dan rekomendasi lokasi.
