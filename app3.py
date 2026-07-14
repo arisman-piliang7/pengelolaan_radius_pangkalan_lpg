@@ -1,5 +1,5 @@
 """
-DDMS - Sistem Manajemen Pangkalan LPG
+Sistem Manajemen Radius Pangkalan LPG
 Jalankan: streamlit run app.py
 Dependensi: pip install streamlit pandas folium streamlit-folium scipy openpyxl geopy
 """
@@ -17,7 +17,7 @@ import json
 from datetime import datetime
 
 st.set_page_config(
-    page_title="DDMS - Manajemen Pangkalan",
+    page_title=" - Manajemen Radius dan Pergerakan Pangkalan",
     page_icon="⛽",
     layout="wide",
     initial_sidebar_state="expanded",
